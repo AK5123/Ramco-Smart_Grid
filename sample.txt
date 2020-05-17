@@ -1,0 +1,42 @@
+// storeInit({
+//     branches: [{
+//         pin: 600093,
+//         name: "Saligramam",
+//         lat:"13.054133",
+//         lng:"80.201653",
+//         limit:7
+//     },{
+//         pin: 600016,
+//         name: "Alandur",
+//         lat:"12.997628",
+//         lng:"80.191838",
+//         limit:8
+//     },{
+//         pin: 600040,
+//         name: "Anna nagar",
+//         lat:"13.089075",
+//         lng:"80.204394",
+//         limit:4
+//     },{
+//         pin: 600020,
+//         name: "ADYAR",
+//         lat:"13.007123",
+//         lng:"80.250606",
+//         limit:3
+//     },{
+//         pin: 600026,
+//         name: "Vadapalani",
+//         lat:"13.053145",
+//         lng:"80.213489",
+//         limit:7
+//     },{
+//         pin: 600042,
+//         name: "Velachery",
+//         lat:"12.974729",
+//         lng:"80.220106",
+//         limit:11
+//     }],
+//     name: "McDonalds",
+//     delB:3
+// })
+
